@@ -1,0 +1,6 @@
+services:
+  lhdn:
+    container_name: lhdn 
+    build:
+      dockerfile: ./dockerfiles/dev.dockerfile
+
