@@ -1,0 +1,1 @@
+# lhdn-einvoice-stub
